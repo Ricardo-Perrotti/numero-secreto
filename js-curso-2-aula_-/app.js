@@ -1,5 +1,5 @@
 let sorteados = [];
-let faixa = 100;
+let faixa = 50;
 let tentativas = 1;
 
 
